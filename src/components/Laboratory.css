@@ -1,0 +1,26 @@
+#h2-lab {
+  text-align: center;
+}
+#h3-lab {
+  background-color: skyblue;
+  padding: 10px;
+  /* text-decoration: overline;# */
+}
+#li-lab {
+  font-weight: bold;
+}
+#list {
+  font-weight: normal;
+}
+
+#h4-lab {
+  text-decoration: underline green;
+}
+
+#p-lab {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#h5-lab {
+  color: red;
+}

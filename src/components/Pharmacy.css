@@ -1,0 +1,19 @@
+#phar-h1 {
+  text-align: center;
+}
+#phar-h3 {
+  text-decoration: underline green;
+}
+
+#pharcard-div {
+  display: inline-block;
+}
+.pharcard-div1 {
+  padding-right: 18%;
+}
+.pharcard-div2 {
+  padding-right: 20%;
+}
+/* #dl-3 {
+  padding-bottom: 30%;
+} */
