@@ -60,7 +60,7 @@ export default function Buttons() {
             Nurse
           </Link>
         </button>
-        &nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;
         <button type="button" className="btn btn-dark" id="Receptionist"  >
           <Link  
             style={{ textDecoration: "none", color: "white" }}
